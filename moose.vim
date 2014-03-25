@@ -1,4 +1,7 @@
 "This file is Taken from (https://github.com/vim-perl/vim-perl)
+
+"SAVE this file as ~/.vim/syntax/moose.vim
+
 " Perl highlighting for Moose keywords
 " Maintainer:   vim-perl <vim-perl@groups.google.com>
 " Installation: Put into after/syntax/perl/moose.vim
